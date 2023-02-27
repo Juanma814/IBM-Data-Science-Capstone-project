@@ -4,4 +4,3 @@ These files were part of the Final Course to earn the IBM Data Science certifica
 manipulate, and analize data from SpaceX Falcon 9 Rocket's Landings. Some of the tools needed for this project were : Python (Numpy, Pandas, Folium, sqlite, beautifulsoup
 seasborn, matplotlib, scikitlearn, among others), SQL, and also theoretical knowledge about Machine learning classification models (Logistic regression, KNN, support 
 vector machine, and classification trees).
-EDA with SQL was inspired in github user Chuskoo due to issues with IBM Watson Studio
